@@ -13,3 +13,12 @@ The MovieLens 100k dataset is used. Download it [here](https://grouplens.org/dat
 
 ## How to Use
 1. Clone this repository:
+git clone https://github.com/yourusername/Movie_Recommendation_System.git
+2. Download the dataset from the link above and place `u.data` and `u.item` in the same folder.
+3. Run the script: python movie_recommender.py
+4. Enter a movie name (e.g., ‘Toy Story (1995)’):
+Recommended movies:
+	•	A Bug’s Life (1998) (similarity: 0.85)
+	•	The Lion King (1994) (similarity: 0.83)
+## License
+This project is open-source under the MIT license.
